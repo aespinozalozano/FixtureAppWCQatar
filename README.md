@@ -9,6 +9,8 @@ Aplicativo realizado para la prueba técnica de la empresa Avatar Global, la fun
 
 ##Visuales
 Se usarán capturas de Figma para mostrar el uso y vistas del aplicativo.
+Se realizó un boceto del aplicativo en la plataforma de Figma
+> https://www.figma.com/file/KG60I3M39L950jluWfxSib/WC-Qatar-App?node-id=0%3A1&t=lHlIlyhtPDU3fhIX-1
 
 ## Instalación
 De momento sería mediante el archivo .APK, si fuera un proyecto real sería mediante Play Store.
